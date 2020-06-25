@@ -3,6 +3,12 @@
  - [Istio](https://istio.io/)
    - [Docs](https://istio.io/latest/docs/)
 
+## Content
+
+1. [설치](docs/01.install.md)
+
+---
+
 ## Istio
 
 클라우드 플랫폼 위에 MSA를 구축할 때, 운영과 개발이 복잡해진다.  
