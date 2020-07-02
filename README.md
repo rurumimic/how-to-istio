@@ -6,6 +6,7 @@
 ## Content
 
 1. [설치](docs/01.install.md)
+1. [인그레스](docs/02.ingress.md)
 
 ---
 
